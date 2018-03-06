@@ -1,0 +1,8 @@
+# Python bytecodes.
+*.pyc
+
+# IPython Notebook checkpoints.
+.ipynb_checkpoints/
+
+# Visual Studio Code config folder.
+.vscode/
